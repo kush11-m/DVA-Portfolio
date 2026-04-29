@@ -29,6 +29,11 @@ CGPA: 7.5/10
 - Applied statistical analysis to identify key drivers (R²=0.28) and operational efficiency improvements.
 - Developed interactive dashboards to visualize risk‑return trade‑offs, supporting strategies that reduce risk by ~40–60%.
 - Identified undervalued segments with positive momentum, uncovering 2–3× ROI opportunities.
+### DVA Capstone 2 - Project Repository | Python, Tableau
+- Data‑driven industry simulation using Python and Tableau to identify high‑value sponsorship opportunities in Formula 1's Modern Hybrid Era.
+- Built KPI framework, performed statistical analysis, and created interactive Tableau dashboards.
+- Highlighted top‑value teams and provided actionable sponsorship recommendations.
+
 
 ### Financial Performance & Profitability Dashboard | Excel, Tableau
 - Analysed multi‑year financial data (2022–2024) to track revenue, cost, and profit KPIs across regions and categories.
