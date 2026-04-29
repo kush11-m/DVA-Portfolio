@@ -41,6 +41,13 @@ CGPA: 7.5/10
 - Conducted trend analysis to detect seasonality patterns, supporting forecasting and planning decisions.
 - Built dashboards to monitor KPIs and cost drivers, enabling ~10–15% margin improvement potential.
 
+### E-Commerce Customer Behavior Analysis | Excel
+- Analyzed 50,000 customer records (reduced to 10,000 for focused analysis) to understand user behavior, engagement, and churn trends.
+- Performed data cleaning and preprocessing, handling missing values for 15+ features using logical and data‑driven median imputation.
+- Created pivot tables and identified key engagement patterns linked to churn, such as login frequency and browsing depth.
+- Identified high‑risk segments with heavy discount dependency and high cart abandonment rates.
+- Developed actionable insights on customer value metrics and geographic churn exposure to support retention strategies.
+
 ---
 
 ## Skills
